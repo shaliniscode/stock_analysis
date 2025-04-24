@@ -85,6 +85,7 @@ six==1.17.0
 soupsieve==2.6
 stack-data==0.6.3
 statsmodels==0.14.4
+ta==0.11.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
 tensorflow==2.18.0

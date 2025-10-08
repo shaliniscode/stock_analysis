@@ -22,6 +22,7 @@ kiwisolver==1.4.9
 lxml==6.0.2
 matplotlib==3.10.6
 matplotlib-inline==0.1.7
+narwhals==2.7.0
 nest-asyncio==1.6.0
 numpy==2.3.3
 packaging==25.0
@@ -31,6 +32,7 @@ parso==0.8.5
 pexpect==4.9.0
 pillow==11.3.0
 platformdirs==4.4.0
+plotly==6.3.1
 prompt_toolkit==3.0.52
 psutil==7.1.0
 ptyprocess==0.7.0
